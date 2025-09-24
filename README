@@ -1,10 +1,9 @@
-# IBM-NJ Client-Side Form Validation
+IBM-NJ Client-Side Form Validation
 
 A modern, interactive client-side form validation system built with **React** and **JavaScript (ES6+)**. This project focuses on real-time validation of user inputs for multiple form types, enhancing both **security** and **user experience**.
 
 ---
-
-## 🚀 Features
+🚀 Features
 
 - ✅ Real-time validation with instant feedback
 - ✅ Password strength meter
@@ -16,7 +15,7 @@ A modern, interactive client-side form validation system built with **React** an
 
 ---
 
-## 🧠 Forms Included
+🧠 Forms Included
 
 - **Registration Form**
 - **Login Form**
@@ -27,7 +26,7 @@ Each form has independent client-side validation with visual feedback.
 
 ---
 
-## 🔒 Validation Rules
+🔒 Validation Rules
 
 - **Email** – Must be in valid email format  
 - **Password** – Min 8 characters, 1 uppercase, 1 digit, 1 special character  
@@ -38,7 +37,7 @@ Each form has independent client-side validation with visual feedback.
 
 ---
 
-## ⚙️ Technology Stack
+⚙️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React  
 - **React Hooks**: `useState`, `useEffect`, `useReducer` (optional)  
@@ -49,7 +48,7 @@ Each form has independent client-side validation with visual feedback.
 
 ---
 
-## 📦 Installation
+📦 Installation
 
 1. **Clone the repo**
 
