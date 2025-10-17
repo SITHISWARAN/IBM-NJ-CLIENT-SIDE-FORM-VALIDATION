@@ -55,3 +55,15 @@ Each form has independent client-side validation with visual feedback.
 ```bash
 git clone https://github.com/your-username/ibm-nj-form-validation.git
 cd ibm-nj-form-validation
+
+-** install dependencies** :
+   npm install
+
+- ** Run server side(backend) in server folder ** :
+    node server.js
+
+- **Run client side(fronend) in client folder ** :
+    npm start
+
+
+-**Wait for few minutes it will open localhost on browser**
