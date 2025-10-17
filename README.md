@@ -59,7 +59,7 @@ cd ibm-nj-form-validation
 -** install dependencies** :
    npm install
 
-- ** Run server side(backend) in server folder ** :
+- ** Run server side(backend) in server folder ** ** OPTIONAL** :
     node server.js
 
 - **Run client side(fronend) in client folder ** :
